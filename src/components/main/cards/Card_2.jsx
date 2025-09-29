@@ -6,12 +6,12 @@ const Card_2 = () => {
       <div className="bg-white overflow-hidden  group  w-[393px] text-center h-[681px] mt-[86px] ml-[86px]  border border-[#00ad6a] rounded-t-[10px]">
         <a href="">
           <p className="bg-[#00ad6a] text-white ">RECOMMENDED</p>
-          <p className="text-[48px] text-[#00ad6a] font-bold flex flex-col mt-3">
-            <span> Small </span>
-            <span>Business</span>
-            <span> Plan</span>
-            <span className="text-[#83858a] text-[24px]">$59 per month</span>
+          <p className="text-[48px] text-[#00ad6a] leading-12 font-bold ml-[70px] w-[250px] mt-5">
+            Small Business Plan
           </p>
+          <span className="text-[#83858a] block text-[24px]">
+            $59 per month
+          </span>
           <button
             className="w-[203px] opacity-80 group-hover:scale-120 hover:opacity-100
          h-[54px] bg-[#1fe374] mt-5 font-bold text-[20px]"
@@ -23,7 +23,7 @@ const Card_2 = () => {
             <span className="text-[20px] pr-10  text-[#83858a]">
               You get Pulse Basics, plus:
             </span>
-            <ul className="text-[15px] text-[#06b66c] text-[22px]  flex flex-col gap-3">
+            <ul className=" text-[#06b66c] text-[22px]  flex flex-col gap-3">
               <li className="text-left flex flex-row">
                 <i class="bx  bx-check"></i>
                 <span className="text-[#464951] text-[16px]  ">
@@ -59,10 +59,8 @@ const Card_2 = () => {
           Complex business with multiple financial <br /> accounts, currencies,
           or auditing needs?
         </span>
-        <p className="text-[48px] text-[#00ad6a] font-bold flex flex-col mt-1">
-          <span> Unlock Extea </span>
-          <span>Features</span>
-
+        <p className="text-[48px] text-[#00ad6a] leading-12  flex flex-col mt-4">
+          Unlock Extea Features
           <span className="text-[#83858a] text-[24px]">$89 per month</span>
         </p>
         <button
@@ -76,7 +74,7 @@ const Card_2 = () => {
           <span className="text-[20px] pr-10  text-[#83858a]">
             GET IT ALL, plus:
           </span>
-          <ul className="text-[15px] text-[#06b66c] text-[22px]  flex flex-col gap-3">
+          <ul className=" text-[#06b66c] text-[22px]  flex flex-col gap-3">
             <li className="text-left flex flex-row">
               <i class="bx  bx-check"></i>
               <span className="text-[#464951] text-[16px]  ">

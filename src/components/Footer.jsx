@@ -1,9 +1,9 @@
-import React from "react";
+
 
 const Footer = () => {
   return (
-    <div className="bg-[#080c16] h-[430px] flex flex-row ">
-      <div className="pl-[377px] pt-[96px]">
+    <div className="bg-[#080c16]  flex flex-row ">
+      <div className="pl-[377px] pt-[85px]">
         <a href="">
           <img
             src="https://pulseapp.com/img/pulse-logo.svg"
@@ -11,11 +11,11 @@ const Footer = () => {
             className="w-[150px]"
           />
         </a>
-        <button className=" mt-[55px] w-[300px] cursor-pointer h-[56px] hover:border-5 hover:border-[#464951] hover:border-t hover:border-r bg-[#10c770] font-[700]">
+        <button className=" mt-[45px] w-[300px] cursor-pointer h-[56px] hover:border-5 hover:border-[#464951] hover:border-t hover:border-r bg-[#10c770] font-[700]">
           Sign Up For Free 30-Day Trail
         </button>
         <p className="mt-[100px]">
-          <a href="" className="text-[#83858a]">
+          <a href="" className="text-[#83858a] inline-block mb-10">
             ©2019 Pulseapp.com, Inc. All Rights Reserved | Terms of Use |
             Privacy Policy | EU Privacy <br /> Pulse is made by Simple Focus. We
             also make Ballpark, Sifter, and Curated.

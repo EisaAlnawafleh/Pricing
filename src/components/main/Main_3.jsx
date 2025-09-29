@@ -18,4 +18,4 @@ const Main_3 = ({ title, title1, title2, title3, title4 }) => {
 };
 
 export default Main_3;
-// h-[888px]
+

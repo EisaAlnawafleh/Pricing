@@ -12,14 +12,14 @@ function App() {
   return (
     <div className="">
       <Header />
-      <Main_1 />
+      {/* <Main_1 />
 
-      <div className=" flex flex-row justify-center ">
+      <div className=" flex flex-row justify-center ml-[150px]">
         <Card_1 />
         <Card_2 />
       </div>
       <Main_2 />
-      <div className=" bg-white h-[1200px]">
+      <div className=" bg-white  ">
         <Main_3
           title={"FAQ"}
           title1={"How does the 30-day free trial work?"}
@@ -53,9 +53,10 @@ function App() {
             "We accept payments made online using Visa, Mastercard, Discover, and American Express."
           }
         />
+        <Main_3 />
       </div>
 
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
