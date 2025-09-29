@@ -1,15 +1,15 @@
 const Header = () => {
   return (
-    <div className="sm:bg-white sm:m-[0] sm:pb-[81px]            flex font-bold flex-row w-[1200px]  items-center justify-between mx-auto mt-10 ">
+    <div className="flex font-bold flex-row w-[1200px]  items-center justify-between mx-auto mt-10 ">
       <div>
         <a href="#">
-          <img className="sm:"
+          <img 
             src="https://raw.githubusercontent.com/EisaAlnawafleh/pulseapp/9555d49a51eb6b4d340bfac668080aa33e85a685/img/icon_header.svg"
             alt=""
           />
         </a>
       </div>
-      <div className=" p-1 flex flex-row gap-10 sm:hidden ">
+      <div className=" p-1 flex flex-row gap-10 ">
         <a href="" className="text-green-600  hover:text-black">
           Features
         </a>
