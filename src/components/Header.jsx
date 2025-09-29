@@ -3,7 +3,7 @@ const Header = () => {
     <div className="flex font-bold flex-row w-[1200px]  items-center justify-between mx-auto mt-10 ">
       <div>
         <a href="#">
-          <img 
+          <img
             src="https://raw.githubusercontent.com/EisaAlnawafleh/pulseapp/9555d49a51eb6b4d340bfac668080aa33e85a685/img/icon_header.svg"
             alt=""
           />
