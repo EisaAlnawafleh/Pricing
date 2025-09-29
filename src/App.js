@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="">
       <Header />
-      {/* <Main_1 />
+      <Main_1 />
 
       <div className=" flex flex-row justify-center ml-[150px]">
         <Card_1 />
@@ -56,7 +56,7 @@ function App() {
         <Main_3 />
       </div>
 
-      <Footer /> */}
+      <Footer />
     </div>
   );
 }
